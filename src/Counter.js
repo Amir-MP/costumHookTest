@@ -5,7 +5,7 @@ const Counter = () => {
   const increment=()=>{
     setCounterVal(counterVal + 1);
   }
-  return {counterVal,increment,setCounterVal}
+  return {counterVal,increment}
 }
 
 export default Counter

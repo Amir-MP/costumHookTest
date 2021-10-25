@@ -1,4 +1,3 @@
-
 import './App.css';
 import Counter from './Counter';
 function App() {
@@ -12,5 +11,5 @@ function App() {
     </div>
   );
 }
-
+//Tests
 export default App;
